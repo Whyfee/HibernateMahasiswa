@@ -32,4 +32,4 @@ Aplikasi ini memungkinkan pengguna untuk mengelola data mahasiswa secara efisien
 6. Jalankan aplikasi dari IDE
 
 ## Author
-Bintang Mahaputra_50422335_4ia22
+Steven Winer_514225524ia22
